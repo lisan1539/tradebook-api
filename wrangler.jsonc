@@ -6,8 +6,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "PUT_YOUR_D1_NAME_HERE",
-      "database_id": "PUT_YOUR_D1_ID_HERE"
+      "database_name": "tradebook-db",
+      "database_id": "645cedb9-2a13-4741-97d9-23b0e51d4a80"
     }
   ]
 }
