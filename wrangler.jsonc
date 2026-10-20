@@ -1,0 +1,13 @@
+{
+  "name": "tradebook-api",
+  "main": "index.js",
+  "compatibility_date": "2025-01-01",
+  "workers_dev": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "PUT_YOUR_D1_NAME_HERE",
+      "database_id": "PUT_YOUR_D1_ID_HERE"
+    }
+  ]
+}
